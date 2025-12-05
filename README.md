@@ -1,0 +1,2 @@
+# Physics-Informed-Neural-Networks-for-3D-Fluid-Flow-Simulation
+This project implements PINN and Fourier PINN (FPINN) architectures to solve incompressible Navier–Stokes equations for velocity and pressure fields. Models are validated against CFD simulations from OpenFOAM on complex geometries such as trapezoidal channels, nozzles, and 3D extruded domains, achieving low MAE and real-time inference capability.
